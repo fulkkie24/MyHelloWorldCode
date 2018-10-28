@@ -1,0 +1,3 @@
+10 dim x$
+20 x$ = "Hello World"
+30 print x$
